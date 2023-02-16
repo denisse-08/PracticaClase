@@ -1,0 +1,21 @@
+*{
+    text-align: center;
+}
+
+.titulo{
+    font-size: 30px;
+}
+
+.tilpoe{
+    font-size: 22px;
+}
+
+.poema{
+    margin: 0 0 10px;
+    padding: 20px;
+    background: #eedec5;
+    border: 1px solid #efece9;
+    border-radius: 10px;
+    color: #2e2e2e;
+    display: inline-block;
+}
